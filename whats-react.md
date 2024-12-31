@@ -2,7 +2,8 @@
 
 #### **What is React?**  
 React is a JavaScript library for building user interfaces. Developed by Facebook, it focuses on efficiently updating and rendering components using a virtual DOM.  
-
+<br>
+Official Documentation: https://react.dev/ 
 ---
 
 ### **Key Features**  
